@@ -1,0 +1,31 @@
+.search {
+    background-color: whitesmoke;
+    width: 150px;
+    height: 30px;
+    border-radius: 15px;
+    border: 2px solid rgb(50, 185, 56);
+    color: rgb(50, 185, 56);
+    font-weight: bold;
+    font-size: 18px;
+}
+.plus {
+    background-color: rgb(56, 216, 64);
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 0px;
+    color: ivory;
+    font-size: 40px;
+}
+.create{
+    background-color: rgb(83, 121, 247);
+    width: 200px;
+    height: 40px;
+    border: 3px solid black;
+    color: ivory;
+    font-size: 20px;
+    box-shadow: 4px 4px black;
+}
+div{
+    margin: 20px;
+}
